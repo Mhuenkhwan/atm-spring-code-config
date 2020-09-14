@@ -1,4 +1,4 @@
-package atm;
+package th.ac.ku.atm;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

@@ -1,4 +1,4 @@
-package atm;
+package th.ac.ku.atm;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
